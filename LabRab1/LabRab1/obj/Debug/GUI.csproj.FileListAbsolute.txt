@@ -64,3 +64,6 @@ C:\Users\Ksu\Desktop\нтвп\lab1\LabRab1\LabRab1\obj\Debug\GUI.PyramidForm.res
 C:\Users\Ksu\Desktop\нтвп\lab1\LabRab1\LabRab1\obj\Debug\GUI.Properties.Resources.resources
 C:\Users\Ksu\Desktop\нтвп\lab1\LabRab1\LabRab1\obj\Debug\GUI.SphereForm.resources
 C:\Users\Ksu\Desktop\нтвп\lab1\LabRab1\LabRab1\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Ksu\Documents\GitHub\First\LabRab1\LabRab1\bin\Debug\GUI.exe.config
+C:\Users\Ksu\Documents\GitHub\First\LabRab1\LabRab1\obj\Debug\GUI.exe
+C:\Users\Ksu\Documents\GitHub\First\LabRab1\LabRab1\obj\Debug\GUI.pdb

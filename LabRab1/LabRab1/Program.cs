@@ -36,27 +36,6 @@ namespace GUI
             }
             Console.ReadLine();
 
-            //try
-            //{
-            //    IFigure[] figure = new IFigure[3];
-            //    figure[0] = new Parallelepiped(2, 4, 6);
-            //    figure[1] = new Pyramid(2, 4);
-            //    figure[2] = new Sphere(5);
-
-            //    for (int i = 0; i < 3; i++)
-            //    {
-            //        System.Console.WriteLine(figure[i].ReturnVolume());
-            //    }
-            //}
-            //catch (ShapeExeption e)
-            //{
-            //    System.Console.WriteLine(e.Message);
-            //}
-
-            //System.Console.ReadLine();
-
-
-
         }
     }
 }
